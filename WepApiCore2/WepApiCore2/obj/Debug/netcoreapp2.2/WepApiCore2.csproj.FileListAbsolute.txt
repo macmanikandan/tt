@@ -1,0 +1,14 @@
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\bin\Debug\netcoreapp2.2\WepApiCore2.deps.json
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\bin\Debug\netcoreapp2.2\WepApiCore2.runtimeconfig.json
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\bin\Debug\netcoreapp2.2\WepApiCore2.runtimeconfig.dev.json
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\bin\Debug\netcoreapp2.2\WepApiCore2.dll
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\obj\Debug\netcoreapp2.2\WepApiCore2.csprojAssemblyReference.cache
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\obj\Debug\netcoreapp2.2\WepApiCore2.csproj.CoreCompileInputs.cache
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\obj\Debug\netcoreapp2.2\WepApiCore2.RazorAssemblyInfo.cache
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\obj\Debug\netcoreapp2.2\WepApiCore2.RazorAssemblyInfo.cs
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\obj\Debug\netcoreapp2.2\WepApiCore2.AssemblyInfoInputs.cache
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\obj\Debug\netcoreapp2.2\WepApiCore2.AssemblyInfo.cs
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\obj\Debug\netcoreapp2.2\WepApiCore2.RazorTargetAssemblyInfo.cache
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\bin\Debug\netcoreapp2.2\WepApiCore2.pdb
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\obj\Debug\netcoreapp2.2\WepApiCore2.dll
+F:\Applications\WepApiCore2\WepApiCore2\WepApiCore2\obj\Debug\netcoreapp2.2\WepApiCore2.pdb
